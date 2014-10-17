@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author kostas kord 
+ * @author kostas 
  */
 public class LuceneJavaFX extends Application {
 

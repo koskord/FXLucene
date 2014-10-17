@@ -16,7 +16,7 @@ import org.apache.lucene.store.LockObtainFailedException;
 
 /**
  *
- * @author kostas kord
+ * @author kostas
  */
 public class Parser {
 

@@ -32,7 +32,7 @@ import static lucenejavafx.SearchIndex.retrieve;
 /**
  * FXML Controller class
  *
- * @author kostas kord
+ * @author kostas
  */
 public class ViewFXMLController implements Initializable {
 

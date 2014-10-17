@@ -2,7 +2,7 @@ package lucenejavafx;
 
 /**
  *
- * @author kostas kord
+ * @author kostas
  */
 import java.io.File;
 import java.io.FileNotFoundException;

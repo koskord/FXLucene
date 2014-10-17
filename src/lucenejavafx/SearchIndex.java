@@ -27,7 +27,7 @@ import org.apache.lucene.util.Version;
 
 /**
  *
- * @author kostas kord
+ * @author kostas
  */
 public class SearchIndex {
 
