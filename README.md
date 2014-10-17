@@ -1,0 +1,4 @@
+FXLucene
+========
+
+A JavaFX application
